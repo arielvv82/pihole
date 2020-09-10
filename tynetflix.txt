@@ -1,14 +1,15 @@
 #youtube Block
-0.0.0.0 googlevideo.com
-0.0.0.0 ytimg.com
-0.0.0.0 youtube.com
-0.0.0.0 youtube-ui.l.google.com
-0.0.0.0 ytimg.l.google.com
-0.0.0.0 ytstatic.l.google.com
-0.0.0.0 youtubei.googleapis.com
+googlevideo.com
+ytimg.com
+youtube.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+ytstatic.l.google.com
+youtubei.googleapis.com
 
 #block netflix
-0.0.0.0 nflxso.net
-0.0.0.0 nflxext.com
-0.0.0.0 nflximg.com
+nflxso.net
+nflxext.com
+nflximg.com
+netflix.com
 
